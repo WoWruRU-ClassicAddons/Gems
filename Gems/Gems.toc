@@ -1,0 +1,8 @@
+## Interface: 1600
+## Title: Gems
+## Notes: A silly gem-based minigame.
+## Notes-ruRU: Мини-игра 4 в ряд.
+## Author: Vallerius
+## Version: 1.6
+
+Gems.xml
